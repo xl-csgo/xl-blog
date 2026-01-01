@@ -97,29 +97,17 @@ pagination.pagerSize = 5
 
       [languages.en.menu]
         [[languages.en.menu.main]]
-          identifier = "about"
-          name = "About"
-          url = "/about"
-        [[languages.en.menu.main]]
           identifier = "counter-strike"
           name = "Counter-Strike"
           url = "/tags/counter-strike/"
-        [[languages.en.menu.main]]
-          identifier = "esports"
-          name = "Esports"
-          url = "/tags/esports/"
         [[languages.en.menu.main]]
           identifier = "f1"
           name = "F1"
           url = "/tags/f1/"
         [[languages.en.menu.main]]
-          identifier = "general"
-          name = "General"
-          url = "/tags/general/"
-        [[languages.en.menu.main]]
-          identifier = "archive"
-          name = "Archive"
-          url = "/tags/archive/"
+          identifier = "technology"
+          name = "Technology"
+          url = "/tags/technology/"
       
 
 # [module]
